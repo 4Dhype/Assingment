@@ -1,0 +1,23 @@
+#welcome1 {font-size: 300%;
+color: yellow;}
+#name { 
+font-size: 400%;
+color: rgb(60, 255, 0);
+margin: 10px 0;
+padding: 5px;
+border: 1px solid ;
+background-image:url("download.jpg") 
+;
+}
+img{height: 320px;width: 320px;
+
+}
+body{background-image:url("Forest 2.jpg");;
+background-color: black;
+}
+#welcome2{color: yellowgreen;
+font-size:200%;;
+}
+a{font-size:200%;
+color: white;
+}

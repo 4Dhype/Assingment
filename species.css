@@ -1,0 +1,17 @@
+a{font-size:200%;
+    color: rgb(250, 250, 250);
+    }
+body{background-image:url("Forest.jpg");
+background-color: aquamarine;}
+#title{font-size: 250%;
+color: yellow;
+}
+#description{font-size:150%;
+color:yellowgreen;
+}
+#prelog{font-size: 150%;
+color: greenyellow;
+}
+#forlog{font-size: 150%;
+color: greenyellow;
+}
